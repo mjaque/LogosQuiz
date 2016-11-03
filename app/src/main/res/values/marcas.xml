@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="marcas">
+        <item>krusovice</item>
+        <item>judas</item>
+        <item>grimbergen</item>
+        <item>gambrinus</item>
+        <item>franziskaner</item>
+        <item>fosters</item>
+        <item>estrella_galicia</item>
+        <item>feldschlobchen</item>
+    </string-array>
+</resources>
